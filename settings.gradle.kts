@@ -1,4 +1,4 @@
-rootProject.name = "example-based-testing-kt"
+rootProject.name = "property-based-testing-kt"
 
 pluginManagement { // Configuración de gestión de plugins
     includeBuild("convention-plugins") // Incluye un archivo de configuración de plugins
