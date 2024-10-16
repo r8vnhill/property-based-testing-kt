@@ -18,5 +18,6 @@ dependencyResolutionManagement {    // Gestión de resolución de dependencias
 include(
     ":intro",
     ":str-len",
-    ":biggest"
+    ":biggest",
+    ":generators"
 )
