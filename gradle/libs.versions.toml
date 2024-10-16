@@ -1,7 +1,7 @@
 [versions]
-kotlin = "2.0.20"
+kotlin = "2.0.21"
 pbt = "1.0.0"
-detekt = "1.23.6"
+detekt = "1.23.7"
 kotest = "5.9.1"
 
 [libraries]
